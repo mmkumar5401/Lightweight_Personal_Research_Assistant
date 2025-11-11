@@ -1,7 +1,3 @@
-Got it — here’s a clean, full **README.md** that includes *everything* you mentioned: setup, project structure, backend + CLI instructions, and how to run it — all in one polished document ready to drop straight into your GitHub repo.
-
----
-
 ````markdown
 # 🧠 Lightweight Personal Research Assistant
 
@@ -209,7 +205,4 @@ MIT License © 2025 [Manojkumar Muthukumaran](https://github.com/mmkumar5401)
 
 ```
 
----
-
-This version is polished enough for public visibility — it explains *what* the project does, *how* to run it both ways (API + CLI), and gives people instant confidence to try it locally. It’ll render beautifully on GitHub with icons, headers, and code blocks.
 ```
