@@ -1,4 +1,4 @@
-````markdown
+
 # 🧠 Lightweight Personal Research Assistant
 
 A **Retrieval-Augmented Generation (RAG)**-based local research assistant that helps you **query, summarize, and analyze academic papers**.  
@@ -37,7 +37,7 @@ It uses **LangChain**, **ChromaDB**, and **Ollama (LLaMA3 / Mistral)** to give y
 ```bash
 git clone https://github.com/mmkumar5401/Lightweight_Personal_Research_Assistant.git
 cd Lightweight_Personal_Research_Assistant
-````
+```
 
 ### 2️⃣ Create and Activate Virtual Environment
 
