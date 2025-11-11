@@ -203,6 +203,3 @@ You can tweak parameters inside `backend/rag_engine.py`:
 
 MIT License © 2025 [Manojkumar Muthukumaran](https://github.com/mmkumar5401)
 
-```
-
-```
